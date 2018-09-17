@@ -18,4 +18,5 @@ module.exports = {
     },
     'gatsby-plugin-offline',
   ],
+  pathPrefix: `/iamsolankiamit.github.io`,
 }
